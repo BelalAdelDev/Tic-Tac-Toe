@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
 Simple Tic-Tac-Toe Game Made in JavaFX
+ - Single Player and Two Player modes
  - Using MiniMax
  - Compatable with JVM 22 or later
 
