@@ -7,19 +7,19 @@ Simple Tic-Tac-Toe Game Made in JavaFX
  1. initially start an empty board (array of characters: ' ')
  2. When the player picks a tile a tree of all possible moves till the end of the game is generated
  3. MiniMax Algorithm will traverse the tree giving a score for each leaf
-    - if the human (X) wins: 1 score 
-    - if the machine (O) wins: -1 score 
-    - if the draw: 0 score
+    - If the human (X) wins: 1 score 
+    - If the machine (O) wins: -1 score 
+    - If draw: 0 score
  4. score is carried up the tree till the current board status
  5. the machine then selects the first child play (board) that has equal Min value
 ### Main Menu
-![MainMenuScreenshot|500x500](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/MainMenuScreenshot.png?raw=true)
+![MainMenuScreenshot](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/MainMenuScreenshot.png?raw=true = 500x500)
 
 ### In Game
-![InGameScreenshot|500x500](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/InGameScreenshot.png?raw=true)
+![InGameScreenshot](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/InGameScreenshot.png?raw=true = 500x500)
 
 ### Video Showcase
-![Demo|500x500](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/Demo.gif?raw=true)
+![Demo](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/Demo.gif?raw=true = 500x500)
 
 ### Improvements
  - [ ] Make it Compatible with Older JVM
