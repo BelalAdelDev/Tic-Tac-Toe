@@ -13,13 +13,16 @@ Simple Tic-Tac-Toe Game Made in JavaFX
  4. score is carried up the tree till the current board status
  5. the machine then selects the first child play (board) that has equal Min value
 ### Main Menu
-![MainMenuScreenshot](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/MainMenuScreenshot.png =500x500)
+![MainMenuScreenshot](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/MainMenuScreenshot.png)
+<img src="https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/MainMenuScreenshot.png" alt="MainMenuScreenshot" width="500" height="500">
 
 ### In Game
-![InGameScreenshot](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/InGameScreenshot.png =500x500)
+![InGameScreenshot](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/InGameScreenshot.png)
+<img src="https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/InGameScreenshot.png" alt="InGameScreenshot" width="500" height="500">
 
 ### Video Showcase
-![Demo](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/Demo.gif =500x500)
+![Demo](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/Demo.gif)
+<img src="https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/Demo.gif" alt="Demo" width="500" height="500">
 
 ### Improvements
  - [ ] Make it Compatible with Older JVM
