@@ -1,0 +1,45 @@
+.button {
+    -fx-background-color: #000000;
+    -fx-border-color: #000000;
+    -fx-text-fill: #FFFFFF; /* Retain the text color or specify a custom one */
+    -fx-font-size: 120px;
+    -fx-background-radius: 0; /* Remove rounded corners */
+    -fx-border-radius: 0; /* Remove border rounding */
+}
+.button:disabled {
+    -fx-opacity: 1.0; /* Ensure it remains fully opaque */
+    -fx-background-color: #000000;
+    -fx-border-color: #000000;
+    -fx-text-fill: #FFFFFF; /* Retain the text color or specify a custom one */
+    -fx-font-size: 120px;
+    -fx-background-radius: 0; /* Remove rounded corners */
+    -fx-border-radius: 0; /* Remove border rounding */
+}
+.menuButton {
+    -fx-background-color: #000000;
+    -fx-border-color: #FFFFFF;
+    -fx-text-fill: #FFFFFF; /* Retain the text color or specify a custom one */
+    -fx-font-size: 40px;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-border-width: 4px;
+}
+.menuButton:pressed {
+	-fx-scale-y: 0.9;
+	-fx-scale-x: 0.9;
+}
+.title {
+	-fx-font-size: 80px;
+	-fx-font-weight: bold;
+	-fx-fill: #FFFFFF;
+	-fx-font-family: "Consolas";
+}
+.label {
+	-fx-font-size: 20px;
+	-fx-font-weight: bold;
+	-fx-text-fill: #FFFFFF;
+	-fx-font-family: "Consolas";
+}
+
+
+
