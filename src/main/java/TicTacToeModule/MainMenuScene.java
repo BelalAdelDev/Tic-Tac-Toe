@@ -31,8 +31,8 @@ public class MainMenuScene {
         logo = new ImageView("tic-tac-toeReversed.png");
         twoPlayersButton = new Button("2 Players");
         onePlayerButton = new Button("1 Player");
-        madeBy = new Label("Made by El Bol Bol");
-        copyRights = new Label("Copyright (c) 2025-2069");
+        madeBy = new Label("Made by Belal Adel");
+        copyRights = new Label("Copyright (c) 2024-2025");
         gridPane = new GridPane();
         backGroundRectangle = new Rectangle();
         stackPane = new StackPane();
@@ -48,9 +48,9 @@ public class MainMenuScene {
         backGroundRectangle.setHeight(950);
         backGroundRectangle.setWidth(900);
         backGroundRectangle.setFill(Color.BLACK);
-        madeBy.setTranslateY(55);
+        madeBy.setTranslateY(40); // 55
         madeBy.setTranslateX(-138);
-        copyRights.setTranslateY(55);
+        copyRights.setTranslateY(40); // 55
         copyRights.setTranslateX(138);
         tic_Tac_Toe_title.setTranslateX(48);
 
