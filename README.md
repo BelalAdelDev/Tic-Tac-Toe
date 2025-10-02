@@ -1,7 +1,3 @@
-Here is an improved version of the GitHub README file for the Tic-Tac-Toe JavaFX project, enhancing clarity, structure, and presentation:
-
-***
-
 # Tic-Tac-Toe JavaFX Game
 
 A simple and elegant Tic-Tac-Toe game built with JavaFX, featuring both Single Player and Two Player modes. The game uses the MiniMax algorithm for an unbeatable AI opponent.
@@ -33,11 +29,14 @@ A simple and elegant Tic-Tac-Toe game built with JavaFX, featuring both Single P
 ## Content
 
 ### Main Menu
-![Main Menu](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/MainMenuScreenshot-Game View
+<img src="https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/MainMenuScreenshot.png" alt="MainMenuScreenshot" width="500" height="500">
+
 ### In Game
-![In Game](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/InGameScreenshot.png Demo
-### Gameplay
-![Gameplay Demo](https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main Requirements
+<img src="https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/InGameScreenshot.png" alt="InGameScreenshot" width="500" height="500">
+
+### Video Showcase
+<img src="https://github.com/BelalAdelDev/Tic-Tac-Toe/blob/main/Media/Demo.gif" alt="Demo" width="500" height="500">
+
 
 - Java 22 or later
 - Maven build tool
@@ -68,9 +67,3 @@ This will compile and launch the application.
 ## Credits
 
 Developed by Belal Adel © 2024-2025
-
-***
-
-This improved version structures the README with clear sections for features, usage, and visuals. It adds essential info about requirements and build instructions for convenience. Visual elements are properly captioned, and the language is polished for professionalism and clarity.[1]
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/118848277/a1699bcc-9a5a-478f-a3e9-e4fbd9b54e46/paste.txt)
